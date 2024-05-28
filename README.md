@@ -22,8 +22,3 @@ Ensure you have the following libraries installed:
 - scikit-learn
 - seaborn
 - matplotlib
-
-You can install the required libraries using pip:
-
-```sh
-pip install pandas numpy scikit-learn seaborn matplotlib
